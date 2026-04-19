@@ -1,0 +1,1427 @@
+[
+  {
+    "question": "What is the significance of the Hadith 'Actions are judged by intentions' found in Sahih al-Bukhari?",
+    "category": "Easy",
+    "id": 1
+  },
+  {
+    "question": "Which Hadith in Sahih al-Bukhari describes the procedure for performing ablution (Wudu)?",
+    "category": "Easy",
+    "id": 2
+  },
+  {
+    "question": "What does the Prophet Muhammad (peace be upon him) say about the importance of prayer in Sahih al-Bukhari?",
+    "category": "Easy",
+    "id": 3
+  },
+  {
+    "question": "Which Hadith mentions the reward for fasting during Ramadan as narrated in Sahih al-Bukhari?",
+    "category": "Easy",
+    "id": 4
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the etiquettes of eating and drinking?",
+    "category": "Easy",
+    "id": 5
+  },
+  {
+    "question": "According to Sahih al-Bukhari, what should be done if a person forgets how many Rak'ahs they have prayed?",
+    "category": "Medium",
+    "id": 6
+  },
+  {
+    "question": "What is the ruling on making up missed fasts according to Sahih al-Bukhari?",
+    "category": "Medium",
+    "id": 7
+  },
+  {
+    "question": "Describe the Hadith in Sahih al-Bukhari about the prohibition of interest (Riba).",
+    "category": "Medium",
+    "id": 8
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the permissibility of performing prayers in congregation?",
+    "category": "Medium",
+    "id": 9
+  },
+  {
+    "question": "In Sahih al-Bukhari, what is the ruling regarding the division of inheritance?",
+    "category": "Medium",
+    "id": 10
+  },
+  {
+    "question": "How does Sahih al-Bukhari address the issue of raising hands during supplication?",
+    "category": "Medium",
+    "id": 11
+  },
+  {
+    "question": "Discuss the Hadith in Sahih al-Bukhari that explains the conditions for Zakat eligibility.",
+    "category": "Medium",
+    "id": 12
+  },
+  {
+    "question": "What does Sahih al-Bukhari mention about the virtues of reciting Surah Al-Fatihah in prayer?",
+    "category": "Medium",
+    "id": 13
+  },
+  {
+    "question": "Explain the Hadith in Sahih al-Bukhari which outlines the steps for preparing the deceased for burial.",
+    "category": "Complex",
+    "id": 14
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the conditions for performing Tayammum (dry ablution)?",
+    "category": "Complex",
+    "id": 15
+  },
+  {
+    "question": "Compare the rulings from Sahih al-Bukhari about the permissibility of trade versus usury (Riba).",
+    "category": "Complex",
+    "id": 16
+  },
+  {
+    "question": "How does Sahih al-Bukhari reconcile the concept of free will and divine decree (Qadr)?",
+    "category": "Complex",
+    "id": 17
+  },
+  {
+    "question": "Analyze the Hadith in Sahih al-Bukhari concerning the proper method of distributing Zakat among the poor.",
+    "category": "Complex",
+    "id": 18
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the significance of the first ten days of Dhul-Hijjah?",
+    "category": "Easy",
+    "id": 19
+  },
+  {
+    "question": "Which Hadith in Sahih al-Bukhari describes the Prophet’s method of performing the Eid prayer?",
+    "category": "Easy",
+    "id": 20
+  },
+  {
+    "question": "What is the reward for visiting the sick as mentioned in Sahih al-Bukhari?",
+    "category": "Easy",
+    "id": 21
+  },
+  {
+    "question": "Which Hadith in Sahih al-Bukhari emphasizes the importance of keeping one’s promises?",
+    "category": "Easy",
+    "id": 22
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the Prophet’s advice on seeking knowledge?",
+    "category": "Easy",
+    "id": 23
+  },
+  {
+    "question": "What is the ruling on delaying prayers without valid reasons according to Sahih al-Bukhari?",
+    "category": "Medium",
+    "id": 24
+  },
+  {
+    "question": "Discuss the Hadith in Sahih al-Bukhari about the importance of being kind to animals.",
+    "category": "Medium",
+    "id": 25
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the prohibition of gossip and backbiting?",
+    "category": "Medium",
+    "id": 26
+  },
+  {
+    "question": "According to Sahih al-Bukhari, what is the procedure for performing Ghusl (ritual purification)?",
+    "category": "Medium",
+    "id": 27
+  },
+  {
+    "question": "Describe the Hadith in Sahih al-Bukhari regarding the Prophet’s advice on maintaining family ties.",
+    "category": "Medium",
+    "id": 28
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the permissibility of combining prayers during travel?",
+    "category": "Medium",
+    "id": 29
+  },
+  {
+    "question": "Analyze the Hadith in Sahih al-Bukhari about the Prophet’s dealings with debtors and creditors.",
+    "category": "Complex",
+    "id": 30
+  },
+  {
+    "question": "Compare the Hadiths in Sahih al-Bukhari about voluntary charity versus obligatory Zakat.",
+    "category": "Complex",
+    "id": 31
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the rules of engagement in warfare?",
+    "category": "Complex",
+    "id": 32
+  },
+  {
+    "question": "How does Sahih al-Bukhari explain the concept of sincerity (Ikhlas) in acts of worship?",
+    "category": "Complex",
+    "id": 33
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the importance of starting speech with 'Bismillah'?",
+    "category": "Easy",
+    "id": 34
+  },
+  {
+    "question": "Which Hadith in Sahih al-Bukhari explains the value of saying 'Subhan Allah' and 'Alhamdulillah'?",
+    "category": "Easy",
+    "id": 35
+  },
+  {
+    "question": "What does Sahih al-Bukhari mention about the prohibition of wasting food?",
+    "category": "Easy",
+    "id": 36
+  },
+  {
+    "question": "Which Hadith in Sahih al-Bukhari describes the Prophet’s method of performing Hajj?",
+    "category": "Easy",
+    "id": 37
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the importance of cleanliness in Islam?",
+    "category": "Easy",
+    "id": 38
+  },
+  {
+    "question": "Discuss the Hadith in Sahih al-Bukhari that outlines the rules for giving testimony.",
+    "category": "Medium",
+    "id": 39
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the etiquettes of visiting graves?",
+    "category": "Medium",
+    "id": 40
+  },
+  {
+    "question": "Describe the Hadith in Sahih al-Bukhari regarding the prohibition of lying in trade.",
+    "category": "Medium",
+    "id": 41
+  },
+  {
+    "question": "What is the importance of seeking forgiveness as per Sahih al-Bukhari?",
+    "category": "Medium",
+    "id": 42
+  },
+  {
+    "question": "How does Sahih al-Bukhari address the concept of Tawheed (monotheism)?",
+    "category": "Medium",
+    "id": 43
+  },
+  {
+    "question": "Analyze the Hadith in Sahih al-Bukhari that discusses the permissibility of shortening prayers while traveling.",
+    "category": "Complex",
+    "id": 44
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the etiquettes of giving and receiving gifts?",
+    "category": "Complex",
+    "id": 45
+  },
+  {
+    "question": "Compare the Hadiths in Sahih al-Bukhari regarding the rewards for fasting versus praying at night.",
+    "category": "Complex",
+    "id": 46
+  },
+  {
+    "question": "How does Sahih al-Bukhari address the issue of reconciling apparent contradictions in Hadiths?",
+    "category": "Complex",
+    "id": 47
+  },
+  {
+    "question": "What does Sahih al-Bukhari say about the rulings for paying Zakat on agricultural produce?",
+    "category": "Complex",
+    "id": 48
+  },
+  {
+    "question": "Describe the Hadith in Sahih al-Bukhari regarding the rules of trade during Friday prayers.",
+    "category": "Complex",
+    "id": 49
+  },
+  {
+    "question": "What is the importance of intention (niyyah) in actions according to Sahih Muslim?",
+    "category": "Easy",
+    "id": 50
+  },
+  {
+    "question": "Which Hadith in Sahih Muslim describes the virtues of praying in congregation?",
+    "category": "Easy",
+    "id": 51
+  },
+  {
+    "question": "What is the recommended etiquette for eating as mentioned in Sahih Muslim?",
+    "category": "Easy",
+    "id": 52
+  },
+  {
+    "question": "How is the fasting of the Prophet Muhammad (peace be upon him) on Mondays and Thursdays described in Sahih Muslim?",
+    "category": "Easy",
+    "id": 53
+  },
+  {
+    "question": "Which Hadith in Sahih Muslim forbids arrogance and pride?",
+    "category": "Easy",
+    "id": 54
+  },
+  {
+    "question": "What did the Prophet (peace be upon him) say about the reward for performing Umrah during Ramadan in Sahih Muslim?",
+    "category": "Easy",
+    "id": 55
+  },
+  {
+    "question": "What is the significance of the last ten nights of Ramadan according to Sahih Muslim?",
+    "category": "Easy",
+    "id": 56
+  },
+  {
+    "question": "How does Sahih Muslim describe the method of performing ablution (Wudu)?",
+    "category": "Easy",
+    "id": 57
+  },
+  {
+    "question": "What did the Prophet (peace be upon him) say about the rights of a neighbor in Sahih Muslim?",
+    "category": "Easy",
+    "id": 58
+  },
+  {
+    "question": "What reward is promised for reciting Surah Al-Ikhlas three times according to Sahih Muslim?",
+    "category": "Easy",
+    "id": 59
+  },
+  {
+    "question": "What does Sahih Muslim say about the prohibition of consuming intoxicants?",
+    "category": "Medium",
+    "id": 60
+  },
+  {
+    "question": "How does Sahih Muslim address the issue of delaying prayers beyond their prescribed time?",
+    "category": "Medium",
+    "id": 61
+  },
+  {
+    "question": "What does Sahih Muslim mention about the Prophet’s (peace be upon him) practice of Tahajjud prayer?",
+    "category": "Medium",
+    "id": 62
+  },
+  {
+    "question": "What is the ruling on breaking the fast unintentionally according to Sahih Muslim?",
+    "category": "Medium",
+    "id": 63
+  },
+  {
+    "question": "How does Sahih Muslim describe the importance of being truthful?",
+    "category": "Medium",
+    "id": 64
+  },
+  {
+    "question": "What does Sahih Muslim say about the prohibition of Riba (usury)?",
+    "category": "Medium",
+    "id": 65
+  },
+  {
+    "question": "How does Sahih Muslim define the conditions for accepting charity (sadaqah)?",
+    "category": "Medium",
+    "id": 66
+  },
+  {
+    "question": "What does Sahih Muslim mention about the etiquettes of giving salam?",
+    "category": "Medium",
+    "id": 67
+  },
+  {
+    "question": "How does Sahih Muslim address the issue of backbiting (ghibah)?",
+    "category": "Medium",
+    "id": 68
+  },
+  {
+    "question": "What does Sahih Muslim say about the virtues of seeking forgiveness from Allah?",
+    "category": "Medium",
+    "id": 69
+  },
+  {
+    "question": "According to Sahih Muslim, what are the conditions for valid Zakat on crops and livestock?",
+    "category": "Complex",
+    "id": 70
+  },
+  {
+    "question": "How does Sahih Muslim reconcile the permissibility of wiping over socks versus washing feet during ablution?",
+    "category": "Complex",
+    "id": 71
+  },
+  {
+    "question": "What does Sahih Muslim say about the sequence of inheritance distribution between family members?",
+    "category": "Complex",
+    "id": 72
+  },
+  {
+    "question": "Analyze the Hadith in Sahih Muslim regarding the prohibition of selling goods before taking possession and its implications on modern transactions.",
+    "category": "Complex",
+    "id": 73
+  },
+  {
+    "question": "What is the theological significance of the Hadith about Allah descending in the last third of the night as mentioned in Sahih Muslim?",
+    "category": "Complex",
+    "id": 74
+  },
+  {
+    "question": "How does Sahih Muslim outline the exact steps and sequence for performing the Janazah prayer?",
+    "category": "Complex",
+    "id": 75
+  },
+  {
+    "question": "What does Sahih Muslim say about the conditions under which a vow (nadhar) becomes obligatory?",
+    "category": "Complex",
+    "id": 76
+  },
+  {
+    "question": "Compare the rulings on feeding the poor versus fasting as expiation for breaking an oath according to Sahih Muslim.",
+    "category": "Complex",
+    "id": 77
+  },
+  {
+    "question": "How does Sahih Muslim reconcile Hadiths about the permissibility of temporary marriage (Mut’ah) with its prohibition?",
+    "category": "Complex",
+    "id": 78
+  },
+  {
+    "question": "What does Sahih Muslim say about the detailed process for seeking permission to enter someone’s home?",
+    "category": "Complex",
+    "id": 79
+  },
+  {
+    "question": "Analyze the Hadith in Sahih Muslim about the prohibition of trade during Friday prayers and its implications on business ethics.",
+    "category": "Complex",
+    "id": 80
+  },
+  {
+    "question": "What does Sahih Muslim mention about the theological importance of the Hadith that describes the first three questions in the grave?",
+    "category": "Complex",
+    "id": 81
+  },
+  {
+    "question": "How does Sahih Muslim explain the protocol for handling disputes over ownership and property?",
+    "category": "Complex",
+    "id": 82
+  },
+  {
+    "question": "What is the significance of the Hadith in Sahih Muslim regarding the Prophet’s (peace be upon him) intercession on the Day of Judgment?",
+    "category": "Complex",
+    "id": 83
+  },
+  {
+    "question": "What does Sahih Muslim say about the permissibility of combining two prayers during travel, and what are the conditions for doing so?",
+    "category": "Complex",
+    "id": 84
+  },
+  {
+    "question": "Analyze Sahih Muslim’s description of the rights of women in inheritance and its compatibility with modern legal systems.",
+    "category": "Complex",
+    "id": 85
+  },
+  {
+    "question": "What does Sahih Muslim say about the prohibition of slaughtering animals in front of other animals?",
+    "category": "Medium",
+    "id": 86
+  },
+  {
+    "question": "How does Sahih Muslim address the issue of maintaining ties of kinship (silat ar-rahm)?",
+    "category": "Medium",
+    "id": 87
+  },
+  {
+    "question": "What did the Prophet (peace be upon him) say about the virtues of visiting the sick according to Sahih Muslim?",
+    "category": "Medium",
+    "id": 88
+  },
+  {
+    "question": "What does Sahih Muslim mention about the reward for removing harmful objects from the path?",
+    "category": "Medium",
+    "id": 89
+  },
+  {
+    "question": "What does Sahih Muslim say about the prohibition of swearing by anything other than Allah?",
+    "category": "Medium",
+    "id": 90
+  },
+  {
+    "question": "How does Sahih Muslim describe the conditions for valid Hajj and Umrah?",
+    "category": "Medium",
+    "id": 91
+  },
+  {
+    "question": "What does Sahih Muslim say about the importance of fulfilling trusts (amanah)?",
+    "category": "Medium",
+    "id": 92
+  },
+  {
+    "question": "How does Sahih Muslim describe the etiquettes of drinking water?",
+    "category": "Easy",
+    "id": 93
+  },
+  {
+    "question": "What does Sahih Muslim say about the prohibition of wasting food?",
+    "category": "Easy",
+    "id": 94
+  },
+  {
+    "question": "What does Sahih Muslim mention about the reward for saying 'SubhanAllah wa bihamdihi' one hundred times?",
+    "category": "Easy",
+    "id": 95
+  },
+  {
+    "question": "What are the conditions for praying Salat-ul-Istikhara according to Sahih Muslim?",
+    "category": "Medium",
+    "id": 96
+  },
+  {
+    "question": "What is the significance of saying 'Ameen' during prayer as mentioned in Sunan Abu Dawood?",
+    "category": "Easy",
+    "id": 97
+  },
+  {
+    "question": "Which Hadith in Sunan Abu Dawood mentions the correct posture during Sujood in Salah?",
+    "category": "Easy",
+    "id": 98
+  },
+  {
+    "question": "What did the Prophet (peace be upon him) say regarding the use of a siwak (toothstick) before prayer in Sunan Abu Dawood?",
+    "category": "Easy",
+    "id": 99
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about fasting on the Day of Arafah?",
+    "category": "Easy",
+    "id": 100
+  },
+  {
+    "question": "Which Sunnah is recommended for entering the mosque as per Sunan Abu Dawood?",
+    "category": "Easy",
+    "id": 101
+  },
+  {
+    "question": "What did the Prophet (peace be upon him) say about the reward of feeding the poor during fasting in Sunan Abu Dawood?",
+    "category": "Easy",
+    "id": 102
+  },
+  {
+    "question": "What is the ruling on performing ablution before touching the Quran as narrated in Sunan Abu Dawood?",
+    "category": "Easy",
+    "id": 103
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention about the prohibition of urinating in stagnant water?",
+    "category": "Easy",
+    "id": 104
+  },
+  {
+    "question": "Which Hadith in Sunan Abu Dawood describes the importance of maintaining cleanliness in personal grooming?",
+    "category": "Easy",
+    "id": 105
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about greeting others with Salaam?",
+    "category": "Easy",
+    "id": 106
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention regarding the importance of fulfilling contracts and promises?",
+    "category": "Medium",
+    "id": 107
+  },
+  {
+    "question": "How does Sunan Abu Dawood describe the method of performing Tayammum (dry ablution)?",
+    "category": "Medium",
+    "id": 108
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the permissibility of combining prayers when traveling?",
+    "category": "Medium",
+    "id": 109
+  },
+  {
+    "question": "Which Hadith in Sunan Abu Dawood discusses the conditions for valid Zakat distribution?",
+    "category": "Medium",
+    "id": 110
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention about the prohibition of selling goods before acquiring them?",
+    "category": "Medium",
+    "id": 111
+  },
+  {
+    "question": "What is the ruling on praying in congregation versus praying alone according to Sunan Abu Dawood?",
+    "category": "Medium",
+    "id": 112
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the etiquette of eating and drinking?",
+    "category": "Medium",
+    "id": 113
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention regarding the importance of good manners in interactions with neighbors?",
+    "category": "Medium",
+    "id": 114
+  },
+  {
+    "question": "How does Sunan Abu Dawood describe the rulings on observing I'tikaf during Ramadan?",
+    "category": "Medium",
+    "id": 115
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the prohibition of making false claims in business transactions?",
+    "category": "Medium",
+    "id": 116
+  },
+  {
+    "question": "Which Hadith in Sunan Abu Dawood discusses the process for seeking forgiveness after committing a sin?",
+    "category": "Medium",
+    "id": 117
+  },
+  {
+    "question": "How does Sunan Abu Dawood describe the steps of performing Wudu (ablution) in detail?",
+    "category": "Complex",
+    "id": 118
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention about the conditions that invalidate a prayer?",
+    "category": "Complex",
+    "id": 119
+  },
+  {
+    "question": "How does Sunan Abu Dawood address the apparent conflict between the permissibility of fasting on specific days versus prohibitions in other Hadiths?",
+    "category": "Complex",
+    "id": 120
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the rulings for using gold and silver utensils?",
+    "category": "Complex",
+    "id": 121
+  },
+  {
+    "question": "How does Sunan Abu Dawood explain the differences between major and minor impurities in Islamic jurisprudence?",
+    "category": "Complex",
+    "id": 122
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention about the procedure for paying Kaffarah (expiation)?",
+    "category": "Complex",
+    "id": 123
+  },
+  {
+    "question": "What are the conditions for a valid Nikah (marriage contract) according to Sunan Abu Dawood?",
+    "category": "Complex",
+    "id": 124
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the rulings for a traveler shortening the prayer?",
+    "category": "Complex",
+    "id": 125
+  },
+  {
+    "question": "How does Sunan Abu Dawood address the topic of permissible and impermissible oaths?",
+    "category": "Complex",
+    "id": 126
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the rulings for performing prayer in clothes that may have impurities?",
+    "category": "Complex",
+    "id": 127
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the obligation of obeying leaders, even if they are unjust?",
+    "category": "Complex",
+    "id": 128
+  },
+  {
+    "question": "How does Sunan Abu Dawood describe the process of inheritance distribution among family members?",
+    "category": "Complex",
+    "id": 129
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention about the permissibility of making dua (supplication) between the Adhan and Iqamah?",
+    "category": "Complex",
+    "id": 130
+  },
+  {
+    "question": "How does Sunan Abu Dawood address the rulings for observing Eid prayer in an open field versus a mosque?",
+    "category": "Complex",
+    "id": 131
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the prohibition of eating animals slaughtered without mentioning Allah's name?",
+    "category": "Complex",
+    "id": 132
+  },
+  {
+    "question": "How does Sunan Abu Dawood resolve apparent conflicts between Hadiths about the permissibility of delaying Asr prayer?",
+    "category": "Complex",
+    "id": 133
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the rulings for offering Janazah (funeral) prayer?",
+    "category": "Complex",
+    "id": 134
+  },
+  {
+    "question": "Which Hadith in Sunan Abu Dawood discusses the etiquette of visiting the sick?",
+    "category": "Medium",
+    "id": 135
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the importance of maintaining ties of kinship?",
+    "category": "Medium",
+    "id": 136
+  },
+  {
+    "question": "What are the rulings for expiation of missed fasts according to Sunan Abu Dawood?",
+    "category": "Medium",
+    "id": 137
+  },
+  {
+    "question": "How does Sunan Abu Dawood describe the punishment for breaking a promise intentionally?",
+    "category": "Medium",
+    "id": 138
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the permissibility of women attending congregational prayers?",
+    "category": "Medium",
+    "id": 139
+  },
+  {
+    "question": "What are the rulings for wearing silk for men as narrated in Sunan Abu Dawood?",
+    "category": "Medium",
+    "id": 140
+  },
+  {
+    "question": "What does Sunan Abu Dawood mention about the prohibition of eating or drinking while standing?",
+    "category": "Medium",
+    "id": 141
+  },
+  {
+    "question": "How does Sunan Abu Dawood describe the rulings on trading during the time of Friday prayer?",
+    "category": "Medium",
+    "id": 142
+  },
+  {
+    "question": "What does Sunan Abu Dawood say about the importance of seeking knowledge in Islam?",
+    "category": "Medium",
+    "id": 143
+  },
+  {
+    "question": "What is the definition of Hadith according to Islamic teachings?",
+    "category": "Easy",
+    "id": 144
+  },
+  {
+    "question": "Who compiled the book 'Jami at-Tirmidhi'?",
+    "category": "Easy",
+    "id": 145
+  },
+  {
+    "question": "What is the significance of Jami at-Tirmidhi among the Kutub al-Sittah (six major Hadith collections)?",
+    "category": "Easy",
+    "id": 146
+  },
+  {
+    "question": "What is the ruling on performing ablution (wudu) before prayer as narrated in Jami at-Tirmidhi?",
+    "category": "Easy",
+    "id": 147
+  },
+  {
+    "question": "Which Hadith in Jami at-Tirmidhi emphasizes the importance of maintaining cleanliness?",
+    "category": "Easy",
+    "id": 148
+  },
+  {
+    "question": "What did the Prophet Muhammad (ﷺ) mention about the reward for fasting in Jami at-Tirmidhi?",
+    "category": "Easy",
+    "id": 149
+  },
+  {
+    "question": "Which Hadith from Jami at-Tirmidhi mentions the virtues of praying in congregation?",
+    "category": "Easy",
+    "id": 150
+  },
+  {
+    "question": "What does Jami at-Tirmidhi say about the importance of seeking knowledge?",
+    "category": "Easy",
+    "id": 151
+  },
+  {
+    "question": "What is the Hadith about the etiquettes of eating as mentioned in Jami at-Tirmidhi?",
+    "category": "Easy",
+    "id": 152
+  },
+  {
+    "question": "What is the Hadith regarding the prohibition of lying found in Jami at-Tirmidhi?",
+    "category": "Easy",
+    "id": 153
+  },
+  {
+    "question": "What does Jami at-Tirmidhi say about the reward for giving charity?",
+    "category": "Medium",
+    "id": 154
+  },
+  {
+    "question": "Discuss the Hadith from Jami at-Tirmidhi that explains the conditions for valid fasting.",
+    "category": "Medium",
+    "id": 155
+  },
+  {
+    "question": "What does Jami at-Tirmidhi mention about the importance of fulfilling promises?",
+    "category": "Medium",
+    "id": 156
+  },
+  {
+    "question": "Explain the Hadith in Jami at-Tirmidhi regarding the best way to perform Witr prayer.",
+    "category": "Medium",
+    "id": 157
+  },
+  {
+    "question": "Describe the Hadith in Jami at-Tirmidhi discussing the conditions for Zakat calculation.",
+    "category": "Medium",
+    "id": 158
+  },
+  {
+    "question": "What does Jami at-Tirmidhi say about the etiquette of visiting the sick?",
+    "category": "Medium",
+    "id": 159
+  },
+  {
+    "question": "Explain the Hadith in Jami at-Tirmidhi that discusses the virtues of reciting Surah Al-Fatihah.",
+    "category": "Medium",
+    "id": 160
+  },
+  {
+    "question": "What is the Hadith about the prohibition of usury (riba) in Jami at-Tirmidhi?",
+    "category": "Medium",
+    "id": 161
+  },
+  {
+    "question": "Discuss the Hadith in Jami at-Tirmidhi that emphasizes the importance of kindness to parents.",
+    "category": "Medium",
+    "id": 162
+  },
+  {
+    "question": "Analyze the Hadith in Jami at-Tirmidhi that discusses the reward for performing Hajj and Umrah.",
+    "category": "Medium",
+    "id": 163
+  },
+  {
+    "question": "Interpret the Hadith in Jami at-Tirmidhi that mentions the signs of hypocrisy.",
+    "category": "Complex",
+    "id": 164
+  },
+  {
+    "question": "Compare two Hadiths in Jami at-Tirmidhi regarding the rulings on shortening prayers during travel.",
+    "category": "Complex",
+    "id": 165
+  },
+  {
+    "question": "Discuss the Hadith in Jami at-Tirmidhi about the different levels of reward for prayers based on sincerity.",
+    "category": "Complex",
+    "id": 166
+  },
+  {
+    "question": "Resolve the apparent conflict between two Hadiths in Jami at-Tirmidhi regarding the permissibility of using perfume during fasting.",
+    "category": "Complex",
+    "id": 167
+  },
+  {
+    "question": "Analyze the Hadith in Jami at-Tirmidhi explaining the exact steps of performing ablution (wudu) and the importance of sequence.",
+    "category": "Complex",
+    "id": 168
+  },
+  {
+    "question": "What is the theological implication of the Hadith in Jami at-Tirmidhi about Allah's mercy being greater than His wrath?",
+    "category": "Complex",
+    "id": 169
+  },
+  {
+    "question": "Discuss the Hadith in Jami at-Tirmidhi about the criteria for valid trade transactions in Islam.",
+    "category": "Complex",
+    "id": 170
+  },
+  {
+    "question": "Compare the rulings of the Hadiths in Jami at-Tirmidhi regarding the permissibility of combining prayers under special conditions.",
+    "category": "Complex",
+    "id": 171
+  },
+  {
+    "question": "Explain the Hadith in Jami at-Tirmidhi discussing the proper etiquettes of supplication (dua).",
+    "category": "Complex",
+    "id": 172
+  },
+  {
+    "question": "Analyze the Hadith in Jami at-Tirmidhi that discusses the conditions for accepting repentance.",
+    "category": "Complex",
+    "id": 173
+  },
+  {
+    "question": "What does Jami at-Tirmidhi say about the theological concept of predestination (Qadar)?",
+    "category": "Complex",
+    "id": 174
+  },
+  {
+    "question": "Interpret the Hadith in Jami at-Tirmidhi discussing the virtues of the first ten days of Dhul-Hijjah.",
+    "category": "Complex",
+    "id": 175
+  },
+  {
+    "question": "Discuss the Hadith in Jami at-Tirmidhi about the prohibition of excessive spending and its impact on society.",
+    "category": "Complex",
+    "id": 176
+  },
+  {
+    "question": "Analyze the Hadith in Jami at-Tirmidhi regarding the steps to resolve disputes between Muslims.",
+    "category": "Complex",
+    "id": 177
+  },
+  {
+    "question": "Compare the Hadiths in Jami at-Tirmidhi on the rulings of breaking fast accidentally versus intentionally.",
+    "category": "Complex",
+    "id": 178
+  },
+  {
+    "question": "Discuss the Hadith in Jami at-Tirmidhi about the permissibility and conditions of Tayammum (dry ablution).",
+    "category": "Complex",
+    "id": 179
+  },
+  {
+    "question": "Explain the Hadith in Jami at-Tirmidhi regarding the signs of the Day of Judgment.",
+    "category": "Complex",
+    "id": 180
+  },
+  {
+    "question": "Analyze the Hadith in Jami at-Tirmidhi about the importance of avoiding envy and its consequences.",
+    "category": "Complex",
+    "id": 181
+  },
+  {
+    "question": "What does Jami at-Tirmidhi say about the role of intentions (niyyah) in determining the value of actions?",
+    "category": "Medium",
+    "id": 182
+  },
+  {
+    "question": "What does Jami at-Tirmidhi mention about the etiquettes of speaking truth and avoiding falsehood?",
+    "category": "Medium",
+    "id": 183
+  },
+  {
+    "question": "Explain the Hadith in Jami at-Tirmidhi about the virtues of reciting Surah Al-Ikhlas.",
+    "category": "Medium",
+    "id": 184
+  },
+  {
+    "question": "What does Jami at-Tirmidhi say about the importance of greeting others with Salam?",
+    "category": "Medium",
+    "id": 185
+  },
+  {
+    "question": "What is the Hadith in Jami at-Tirmidhi about the rewards of respecting elders?",
+    "category": "Medium",
+    "id": 186
+  },
+  {
+    "question": "Discuss the Hadith in Jami at-Tirmidhi regarding the prohibition of consuming intoxicants.",
+    "category": "Medium",
+    "id": 187
+  },
+  {
+    "question": "What does Jami at-Tirmidhi mention about the etiquettes of sleeping and waking up?",
+    "category": "Easy",
+    "id": 188
+  },
+  {
+    "question": "What is the Hadith in Jami at-Tirmidhi about the importance of maintaining ties of kinship?",
+    "category": "Easy",
+    "id": 189
+  },
+  {
+    "question": "What does Jami at-Tirmidhi say about the reward for performing Tahajjud (night prayer)?",
+    "category": "Easy",
+    "id": 190
+  },
+  {
+    "question": "What is the Hadith in Jami at-Tirmidhi about performing Salah (prayer) on time?",
+    "category": "Easy",
+    "id": 191
+  },
+  {
+    "question": "What did the Prophet (ﷺ) say about the importance of praying in congregation in Sunan an-Nasa'i?",
+    "category": "Easy",
+    "id": 192
+  },
+  {
+    "question": "Which Hadith in Sunan an-Nasa'i mentions the correct number of Rak'ahs for the Sunnah prayers before and after the obligatory prayers?",
+    "category": "Easy",
+    "id": 193
+  },
+  {
+    "question": "What is the ruling on making up missed fasts according to Sunan an-Nasa'i?",
+    "category": "Easy",
+    "id": 194
+  },
+  {
+    "question": "According to Sunan an-Nasa'i, what is the significance of saying 'Ameen' during prayer?",
+    "category": "Easy",
+    "id": 195
+  },
+  {
+    "question": "What did the Prophet (ﷺ) say about the prohibition of consuming intoxicants in Sunan an-Nasa'i?",
+    "category": "Easy",
+    "id": 196
+  },
+  {
+    "question": "Which Hadith in Sunan an-Nasa'i discusses the reward for fasting on the Day of Arafah?",
+    "category": "Easy",
+    "id": 197
+  },
+  {
+    "question": "What etiquette is mentioned in Sunan an-Nasa'i regarding eating with others?",
+    "category": "Easy",
+    "id": 198
+  },
+  {
+    "question": "Which Hadith in Sunan an-Nasa'i explains the importance of greeting others with Salam?",
+    "category": "Easy",
+    "id": 199
+  },
+  {
+    "question": "What is the ruling on performing Wudu before Salah as mentioned in Sunan an-Nasa'i?",
+    "category": "Easy",
+    "id": 200
+  },
+  {
+    "question": "According to Sunan an-Nasa'i, what did the Prophet (ﷺ) say about the reward for visiting the sick?",
+    "category": "Easy",
+    "id": 201
+  },
+  {
+    "question": "What does Sunan an-Nasa'i say about the permissibility of trading goods during the time of Friday prayer?",
+    "category": "Medium",
+    "id": 202
+  },
+  {
+    "question": "How does Sunan an-Nasa'i describe the Prophet's (ﷺ) method of performing Ghusl after major impurity?",
+    "category": "Medium",
+    "id": 203
+  },
+  {
+    "question": "What is the ruling mentioned in Sunan an-Nasa'i about combining two prayers when traveling?",
+    "category": "Medium",
+    "id": 204
+  },
+  {
+    "question": "According to Sunan an-Nasa'i, what is the significance of the last third of the night in terms of prayer?",
+    "category": "Medium",
+    "id": 205
+  },
+  {
+    "question": "What does Sunan an-Nasa'i mention about the permissibility of using silk and gold for men?",
+    "category": "Medium",
+    "id": 206
+  },
+  {
+    "question": "What is the ruling in Sunan an-Nasa'i on the conditions of Zakat being obligatory?",
+    "category": "Medium",
+    "id": 207
+  },
+  {
+    "question": "How does Sunan an-Nasa'i explain the concept of Tayammum in place of Wudu?",
+    "category": "Medium",
+    "id": 208
+  },
+  {
+    "question": "What does Sunan an-Nasa'i say about the Prophet's (ﷺ) practice of giving charity during Ramadan?",
+    "category": "Medium",
+    "id": 209
+  },
+  {
+    "question": "What is the ruling in Sunan an-Nasa'i on delaying the obligatory prayers without a valid excuse?",
+    "category": "Medium",
+    "id": 210
+  },
+  {
+    "question": "According to Sunan an-Nasa'i, what is the recommended method of performing Sujood during Salah?",
+    "category": "Medium",
+    "id": 211
+  },
+  {
+    "question": "What steps of Wudu are emphasized in Sunan an-Nasa'i, and how do they differ from other narrations?",
+    "category": "Complex",
+    "id": 212
+  },
+  {
+    "question": "How does Sunan an-Nasa'i reconcile the apparent conflict between Hadiths on the permissibility of wiping over socks during Wudu?",
+    "category": "Complex",
+    "id": 213
+  },
+  {
+    "question": "What are the differences in the rulings of fasting for travelers and the sick in Sunan an-Nasa'i, and how should they decide when to fast?",
+    "category": "Complex",
+    "id": 214
+  },
+  {
+    "question": "Analyze the theological implication of the Hadith in Sunan an-Nasa'i on Allah's mercy being greater than His wrath.",
+    "category": "Complex",
+    "id": 215
+  },
+  {
+    "question": "What does Sunan an-Nasa'i mention about the conditions under which prayer can be shortened, and what reasoning is provided?",
+    "category": "Complex",
+    "id": 216
+  },
+  {
+    "question": "Compare the rulings in Sunan an-Nasa'i regarding the permissibility of eating during travel versus fasting while traveling.",
+    "category": "Complex",
+    "id": 217
+  },
+  {
+    "question": "How does Sunan an-Nasa'i explain the procedure for making up missed prayers and the conditions for doing so?",
+    "category": "Complex",
+    "id": 218
+  },
+  {
+    "question": "What theological insights can be drawn from Sunan an-Nasa'i regarding the concept of Qadr (divine decree)?",
+    "category": "Complex",
+    "id": 219
+  },
+  {
+    "question": "What does Sunan an-Nasa'i mention about the differences between the Sunnah prayers before Fajr and the Sunnah prayers after Zuhr?",
+    "category": "Complex",
+    "id": 220
+  },
+  {
+    "question": "How does Sunan an-Nasa'i describe the Prophet's (ﷺ) guidance on resolving disputes in trade transactions?",
+    "category": "Complex",
+    "id": 221
+  },
+  {
+    "question": "What are the detailed steps for performing Janazah prayer according to Sunan an-Nasa'i?",
+    "category": "Complex",
+    "id": 222
+  },
+  {
+    "question": "What does Sunan an-Nasa'i say about the conditions of borrowing and lending, and how should disputes be resolved?",
+    "category": "Complex",
+    "id": 223
+  },
+  {
+    "question": "How does Sunan an-Nasa'i address the issue of prioritizing charity for family members versus non-relatives?",
+    "category": "Complex",
+    "id": 224
+  },
+  {
+    "question": "What does Sunan an-Nasa'i mention about the permissibility and etiquette of asking for forgiveness for others?",
+    "category": "Complex",
+    "id": 225
+  },
+  {
+    "question": "Analyze the Hadith in Sunan an-Nasa'i about the importance of intention in acts of worship and its impact on rewards.",
+    "category": "Complex",
+    "id": 226
+  },
+  {
+    "question": "What did the Prophet (ﷺ) say about the role of the heart in determining righteousness, as mentioned in Sunan an-Nasa'i?",
+    "category": "Easy",
+    "id": 227
+  },
+  {
+    "question": "What does Sunan an-Nasa'i say about the importance of reciting Surah Al-Fatihah in prayer?",
+    "category": "Easy",
+    "id": 228
+  },
+  {
+    "question": "Which Hadith in Sunan an-Nasa'i mentions the prohibition of eating the meat of predatory animals?",
+    "category": "Easy",
+    "id": 229
+  },
+  {
+    "question": "What does Sunan an-Nasa'i mention about the reward for praying Tahajjud?",
+    "category": "Easy",
+    "id": 230
+  },
+  {
+    "question": "What is the ruling in Sunan an-Nasa'i about delaying Zakat payment without a valid reason?",
+    "category": "Medium",
+    "id": 231
+  },
+  {
+    "question": "According to Sunan an-Nasa'i, what is the significance of the Prophet's (ﷺ) advice on maintaining ties of kinship?",
+    "category": "Medium",
+    "id": 232
+  },
+  {
+    "question": "How does Sunan an-Nasa'i describe the procedure for performing Eid prayers?",
+    "category": "Medium",
+    "id": 233
+  },
+  {
+    "question": "What does Sunan an-Nasa'i say about the permissibility of praying in shoes?",
+    "category": "Medium",
+    "id": 234
+  },
+  {
+    "question": "What is the ruling in Sunan an-Nasa'i regarding women praying in congregation?",
+    "category": "Medium",
+    "id": 235
+  },
+  {
+    "question": "What does Sunan an-Nasa'i mention about the Prophet's (ﷺ) guidance on treating neighbors with kindness?",
+    "category": "Easy",
+    "id": 236
+  },
+  {
+    "question": "How does Sunan an-Nasa'i address the issue of balancing worldly life and preparing for the Hereafter?",
+    "category": "Complex",
+    "id": 237
+  },
+  {
+    "question": "What does Sunan an-Nasa'i say about the permissibility of delaying Hajj for financial reasons?",
+    "category": "Medium",
+    "id": 238
+  },
+  {
+    "question": "What does Sunan an-Nasa'i mention about purification after childbirth for women?",
+    "category": "Medium",
+    "id": 239
+  },
+  {
+    "question": "In 'Sunan Ibn Majah', what is the recommended number of daily prayers in Islam?",
+    "category": "Easy",
+    "id": 240
+  },
+  {
+    "question": "According to 'Sunan Ibn Majah', what is the significance of fasting on Mondays?",
+    "category": "Easy",
+    "id": 241
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' say about the reward for reciting Surah Al-Ikhlas three times?",
+    "category": "Easy",
+    "id": 242
+  },
+  {
+    "question": "In 'Sunan Ibn Majah', what is the ruling on using miswak before prayers?",
+    "category": "Easy",
+    "id": 243
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' mention about the prohibition of consuming intoxicating drinks?",
+    "category": "Easy",
+    "id": 244
+  },
+  {
+    "question": "According to 'Sunan Ibn Majah', how many witnesses are required for a marriage contract in Islam?",
+    "category": "Easy",
+    "id": 245
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' say about the importance of respecting one's parents?",
+    "category": "Easy",
+    "id": 246
+  },
+  {
+    "question": "Which Hadith in 'Sunan Ibn Majah' emphasizes the prohibition of lying?",
+    "category": "Easy",
+    "id": 247
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' mention about the reward for visiting a sick Muslim?",
+    "category": "Easy",
+    "id": 248
+  },
+  {
+    "question": "Which Hadith in 'Sunan Ibn Majah' highlights the importance of maintaining kinship ties?",
+    "category": "Easy",
+    "id": 249
+  },
+  {
+    "question": "According to 'Sunan Ibn Majah', what is the ruling on praying in congregation?",
+    "category": "Medium",
+    "id": 250
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' say about the conditions that validate a business transaction?",
+    "category": "Medium",
+    "id": 251
+  },
+  {
+    "question": "In 'Sunan Ibn Majah', what is the recommended method of performing Wudu?",
+    "category": "Medium",
+    "id": 252
+  },
+  {
+    "question": "How does 'Sunan Ibn Majah' describe the etiquette of eating in Islam?",
+    "category": "Medium",
+    "id": 253
+  },
+  {
+    "question": "According to 'Sunan Ibn Majah', what is the significance of giving charity in secret versus publicly?",
+    "category": "Medium",
+    "id": 254
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' teach about the consequences of breaking an oath?",
+    "category": "Medium",
+    "id": 255
+  },
+  {
+    "question": "In 'Sunan Ibn Majah', what is mentioned regarding the permissibility of earning wealth through trade?",
+    "category": "Medium",
+    "id": 256
+  },
+  {
+    "question": "How does 'Sunan Ibn Majah' differentiate between minor and major sins?",
+    "category": "Medium",
+    "id": 257
+  },
+  {
+    "question": "What is the ruling on combining two prayers according to 'Sunan Ibn Majah'?",
+    "category": "Medium",
+    "id": 258
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' say about the rights of neighbors in Islam?",
+    "category": "Medium",
+    "id": 259
+  },
+  {
+    "question": "In 'Sunan Ibn Majah', how is the concept of Qiyam al-Layl (night prayer) explained?",
+    "category": "Medium",
+    "id": 260
+  },
+  {
+    "question": "What conditions for Zakat eligibility are outlined in 'Sunan Ibn Majah'?",
+    "category": "Complex",
+    "id": 261
+  },
+  {
+    "question": "Analyze the Hadith in 'Sunan Ibn Majah' regarding the prohibition of Riba (usury) and its impact on Islamic financial systems.",
+    "category": "Complex",
+    "id": 262
+  },
+  {
+    "question": "How does 'Sunan Ibn Majah' resolve apparent conflicts between Hadiths about combining prayers during travel?",
+    "category": "Complex",
+    "id": 263
+  },
+  {
+    "question": "Compare the rulings on purification by water and earth (tayammum) in 'Sunan Ibn Majah' and discuss their contexts.",
+    "category": "Complex",
+    "id": 264
+  },
+  {
+    "question": "What procedural steps for burial are outlined in 'Sunan Ibn Majah', and how do they differ from other collections?",
+    "category": "Complex",
+    "id": 265
+  },
+  {
+    "question": "According to 'Sunan Ibn Majah', how should disputes involving financial transactions be resolved?",
+    "category": "Complex",
+    "id": 266
+  },
+  {
+    "question": "Discuss the theological implications of the Hadith in 'Sunan Ibn Majah' about Allah's mercy encompassing all things.",
+    "category": "Complex",
+    "id": 267
+  },
+  {
+    "question": "Analyze the Hadith in 'Sunan Ibn Majah' regarding the permissibility of delaying a prayer and its related conditions.",
+    "category": "Complex",
+    "id": 268
+  },
+  {
+    "question": "How does 'Sunan Ibn Majah' describe the detailed procedure for performing Eid prayer?",
+    "category": "Complex",
+    "id": 269
+  },
+  {
+    "question": "What guidance does 'Sunan Ibn Majah' provide regarding the division of inheritance, and how does it address complex family structures?",
+    "category": "Complex",
+    "id": 270
+  },
+  {
+    "question": "Compare the rulings about fasting while traveling found in 'Sunan Ibn Majah' and other Hadith collections.",
+    "category": "Complex",
+    "id": 271
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' teach about the importance of intention (niyyah) in acts of worship and its theological implications?",
+    "category": "Complex",
+    "id": 272
+  },
+  {
+    "question": "Discuss the Hadith in 'Sunan Ibn Majah' regarding the signs of a hypocrite and its application in contemporary ethics.",
+    "category": "Complex",
+    "id": 273
+  },
+  {
+    "question": "How does 'Sunan Ibn Majah' address apparent contradictions in Hadiths about the permissibility of wearing gold for men?",
+    "category": "Complex",
+    "id": 274
+  },
+  {
+    "question": "What is the detailed procedure for offering Salat-ul-Kusuf (solar eclipse prayer) as outlined in 'Sunan Ibn Majah'?",
+    "category": "Complex",
+    "id": 275
+  },
+  {
+    "question": "Analyze the Hadith in 'Sunan Ibn Majah' regarding the prohibition of backbiting and its broader societal impact.",
+    "category": "Complex",
+    "id": 276
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' teach about the permissibility of hunting during Ihram, and what exceptions are mentioned?",
+    "category": "Complex",
+    "id": 277
+  },
+  {
+    "question": "Discuss the Hadith in 'Sunan Ibn Majah' regarding the etiquettes of seeking knowledge and its relevance today.",
+    "category": "Complex",
+    "id": 278
+  },
+  {
+    "question": "How does 'Sunan Ibn Majah' address the issue of praying in clothes with impurities and its exceptions?",
+    "category": "Complex",
+    "id": 279
+  },
+  {
+    "question": "Compare the rulings on the permissibility of delaying Zakat payments in 'Sunan Ibn Majah' and other Hadith collections.",
+    "category": "Complex",
+    "id": 280
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' mention about the conditions for valid testimony in Islamic legal disputes?",
+    "category": "Complex",
+    "id": 281
+  },
+  {
+    "question": "How does 'Sunan Ibn Majah' detail the etiquette of greeting with Salam, and how does it differ based on context?",
+    "category": "Complex",
+    "id": 282
+  },
+  {
+    "question": "Analyze the Hadith in 'Sunan Ibn Majah' regarding the prohibition of envy and its philosophical underpinnings in Islamic ethics.",
+    "category": "Complex",
+    "id": 283
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' teach about the permissibility of combining fasting with fidya, and under what conditions?",
+    "category": "Complex",
+    "id": 284
+  },
+  {
+    "question": "What does 'Sunan Ibn Majah' say about the ruling on praying Tahajjud regularly, and how is it ranked compared to other acts of worship?",
+    "category": "Complex",
+    "id": 285
+  }
+]
