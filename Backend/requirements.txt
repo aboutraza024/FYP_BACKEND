@@ -23,12 +23,11 @@ pydantic[email]==2.7.1
 fastapi==0.111.0
 python-dotenv
 passlib
-pathlib
-pydantic
-pydantic_core
 PyJWT
 pymongo
 requests
 uvicorn
 email_validator
+pydantic==2.7.1
+pydantic-core==2.18.2
 

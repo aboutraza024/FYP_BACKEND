@@ -12,7 +12,8 @@ import secrets
 import logging
 
 load_dotenv()
-
+JWT_SECRET_KEY=os.getenv("JWT_SECRET_KEY")
+# print(JWT_SECRET_KEY)
 # ─── Logging Setup ────────────────────────────────────────────────────────────
 logging.basicConfig(
     level=logging.INFO,
@@ -22,7 +23,6 @@ logging.basicConfig(
 logger = logging.getLogger("user_auth")
 
 # ─── JWT Config ───────────────────────────────────────────────────────────────
-JWT_SECRET_KEY = secrets.token_hex(16)
 TOKEN_LIFETIME_DAYS = 15          # Token 15 din valid rahega
 VERIFY_CODE_MINUTES = 10          # Email verify code 10 minute mein expire
 
