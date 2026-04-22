@@ -70,7 +70,7 @@ def _call_api(messages: list, max_tokens: int) -> str:
         r = _client.post(
             _CHAT_URL,
             headers=_HEADERS,
-            json={"messages": messages, "max_tokens": max_tokens, "temperature": 0},
+            json={"messages": messages, "max_completion_tokens": max_tokens, "temperature": 0},
         )
         r.raise_for_status()
 

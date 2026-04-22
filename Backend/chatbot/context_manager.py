@@ -248,7 +248,7 @@ class SessionContextManager:
             self.remember("language", "english", "auto")
 
         # Book filter preference
-        from chatbot.utils import BOOK_ALIASES
+        from .utils import BOOK_ALIASES
         for alias, canonical in BOOK_ALIASES.items():
             if alias in text and "only" in text:
                 self.remember("preferred_book", canonical, "auto")
@@ -429,23 +429,27 @@ class SessionContextManager:
             )
             messages.append({"role": "system", "content": labeled_rag})
 
-        # 5. Recent history verbatim (OLD conversation turns)
+        # 5. Recent history verbatim (includes current user query as last message)
         if snapshot.new_history:
             messages.append({
                 "role": "system",
                 "content": "=== 📜 RECENT CONVERSATION HISTORY ==="
             })
             for m in snapshot.new_history:
-                messages.append(m)
-
-        # 6. Current user query (NEW DATA)
-        messages.append({
-            "role": "user",
-            "content": (
-                "=== 🆕 NEW USER QUERY ===\n"
-                + user_query
-            )
-        })
+                # Label the last user message as the NEW query
+                if m is snapshot.new_history[-1] and m.get("role") == "user":
+                    messages.append({
+                        "role": "user",
+                        "content": "=== 🆕 NEW USER QUERY ===\n" + m["content"]
+                    })
+                else:
+                    messages.append(m)
+        else:
+            # Fallback: if history was trimmed out entirely, add user query directly
+            messages.append({
+                "role": "user",
+                "content": "=== 🆕 NEW USER QUERY ===\n" + user_query
+            })
 
         return messages
 

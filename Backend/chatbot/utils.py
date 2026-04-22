@@ -554,6 +554,9 @@ def ask_azure(
     # ── Build messages with or without context manager ──────────────────────
     if session_id:
         session = session_store.get_or_create(session_id)
+        # Store user message NOW (once) before building context
+        session.add_message("user", user_query)
+        log.info("📥 User message stored in session [%s]", session_id)
         messages = session.build_messages_for_api(
             user_query    = user_query,
             rag_context   = rag_context,
@@ -603,7 +606,7 @@ def ask_azure(
                 log.warning("LLM returned empty response.")
                 return _NO_HADITH_RESPONSE
 
-            # ── Store assistant reply in session ──────────────────────────────
+            # ── Store only assistant reply in session (user already stored above) ──
             if session_id:
                 session = session_store.get(session_id)
                 if session:
@@ -731,18 +734,46 @@ async def generate_response(
 
     log.info("🔍 book_filter=%s | session=%s", book_filter or "all books", session_id or "none")
 
-    # ── Store user query in session (OLD → NEW tracking) ─────────────────────
-    if session_id:
-        session = session_store.get_or_create(session_id)
-        session.add_message("user", user_query)
-        log.info("📥 User message stored in session [%s]", session_id)
+    # ── Store user query in session AFTER response (done in ask_azure) ───────
+    # NOTE: user message is stored AFTER we get the answer to avoid
+    # it being included twice in build_messages_for_api call.
+
+    # ── Detect & expand follow-up queries using session history ───────────────
+    FOLLOWUP_PHRASES = {
+        "more about it", "tell me more", "explain further", "what else",
+        "continue", "elaborate", "aur batao", "more", "aur", "more details",
+        "tell me more about it", "and", "go on", "please continue",
+        "more about this", "expand on this", "give me more",
+    }
+    query_stripped = user_query.strip().lower().rstrip("?.,!")
+
+    is_followup = query_stripped in FOLLOWUP_PHRASES or len(query_stripped) <= 20 and any(
+        phrase in query_stripped for phrase in ["more", "aur", "continue", "elaborate", "tell me"]
+    )
+
+    rag_search_query = user_query  # default
+
+    if is_followup and session_id:
+        session = session_store.get(session_id)
+        if session and session.history:
+            # Find the last substantive user query (not a follow-up itself)
+            last_topic = None
+            for msg in reversed(session.history):
+                if msg.role == "user":
+                    prev = msg.content.strip().lower().rstrip("?.,!")
+                    if prev not in FOLLOWUP_PHRASES and len(prev) > 20:
+                        last_topic = msg.content.strip()
+                        break
+            if last_topic:
+                rag_search_query = last_topic
+                log.info("🔄 Follow-up detected — expanding query from history: %s", last_topic[:80])
 
     # ── Query rewrite ─────────────────────────────────────────────────────────
     try:
-        rewritten_query = await loop.run_in_executor(None, rewrite_query, user_query)
+        rewritten_query = await loop.run_in_executor(None, rewrite_query, rag_search_query)
     except Exception as exc:
         log.error("rewrite_query crashed: %s — using original.", exc)
-        rewritten_query = user_query
+        rewritten_query = rag_search_query
 
     # ── RAG search (NEW data) ─────────────────────────────────────────────────
     try:

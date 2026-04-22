@@ -19,7 +19,7 @@ from .audio import voice_to_hadith_query
 from .image import extract_hadith_from_image
 from .utils import generate_response
 from .context_manager import session_store, rate_tracker
-from auth.jwt_dacorator import token_required
+from auth.jwt_decorator import token_required
 
 # ── Logging ───────────────────────────────────────────────────────────────────
 logging.basicConfig(

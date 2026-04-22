@@ -23,7 +23,7 @@ from .functions import (
     VERIFY_CODE_MINUTES,
     TOKEN_LIFETIME_DAYS,
 )
-from .jwt_dacorator import token_required, api_key_header
+from .jwt_decorator import token_required, api_key_header
 
 # ─── Logger ───────────────────────────────────────────────────────────────────
 logger = logging.getLogger("user_auth.routers")
